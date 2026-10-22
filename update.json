@@ -1,17 +1,15 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "date": "2026-10-22",
-  "title": "Auto updates + better Hinglish + faster captions",
+  "title": "Test update (check auto-update)",
   "notes": [
-    "New: CaptionKit now tells you when an update is out and installs it in one click",
-    "Hinglish now writes every Hindi word in Roman letters (kya, hai, nahi…)",
-    "English words spoken in Hindi audio are spelled in English (video, channel)",
-    "Captions generate much faster: audio is split and transcribed in parallel"
+    "Test: auto-update from GitHub works",
+    "Version number changes from 1.9.0 to 1.9.1"
   ],
-  "message": "",
+  "message": "This is a small test release to confirm in-panel updates work.",
   "critical": false,
-  "download": "https://github.com/Motionsfly/CaptionKit/releases/download/v1.9.0/CaptionKit_v1.9.0_Plugin.zip",
-  "size": 8374988,
-  "sha256": "1b14ab50f1b93403868e742b76b54f46299b518e2f5e210342feececb0e766d6",
+  "download": "https://github.com/Motionsfly/CaptionKit/releases/download/v1.9.1/CaptionKit_v1.9.1_Plugin.zip",
+  "size": 8376244,
+  "sha256": "91706f58775793cf95fafb78f5905e9d8a6e543bb823af2788c50f2017755acb",
   "page": "https://officialmotionsfly.gumroad.com/"
 }

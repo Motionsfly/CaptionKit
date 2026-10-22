@@ -9,7 +9,11 @@
   "message": "This is a small test release to confirm in-panel updates work.",
   "critical": false,
   "download": "https://github.com/Motionsfly/CaptionKit/releases/download/v1.9.1/CaptionKit_v1.9.1_Plugin.zip",
-  "size": 8376244,
-  "sha256": "91706f58775793cf95fafb78f5905e9d8a6e543bb823af2788c50f2017755acb",
-  "page": "https://officialmotionsfly.gumroad.com/"
+  "mirrors": [
+    "https://raw.githubusercontent.com/Motionsfly/CaptionKit/main/releases/CaptionKit_v1.9.1_Plugin.zip",
+    "https://cdn.jsdelivr.net/gh/Motionsfly/CaptionKit@main/releases/CaptionKit_v1.9.1_Plugin.zip"
+  ],
+  "size": 8376475,
+  "sha256": "f2183de0c45d3ed053c27a2304b15b4b3bcb39aced12d2113ab4f6c25e08466e",
+  "page": "https://officialmotionsfly.gumroad.com/l/captionkit?wanted=true"
 }

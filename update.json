@@ -1,19 +1,23 @@
 {
-  "version": "1.9.1",
-  "date": "2026-10-22",
-  "title": "Test update (check auto-update)",
+  "version": "1.9.2",
+  "date": "2026-10-26",
+  "title": "18 Reel Type styles + 28 classic font pairings",
   "notes": [
-    "Test: auto-update from GitHub works",
-    "Version number changes from 1.9.0 to 1.9.1"
+    "New \"Reel Type\" styles: lowercase Helvetica-style text with red, green and gold serif-italic accents and soft glow",
+    "28 new classic font pairings (Jost × Baskerville, Bebas × Roboto Slab, League Gothic × Alex Brush, Bodoni × Inter, Cinzel, Pinyon Script and more)",
+    "36 new fonts included and installed automatically",
+    "Stack styles fixed: lines no longer overlap and words are split better",
+    "Highlighted words no longer touch the next word",
+    "Sharper, smoother style previews; still previews now show the full caption"
   ],
-  "message": "This is a small test release to confirm in-panel updates work.",
+  "message": "After updating, restart After Effects / Premiere Pro once so the new fonts appear.",
   "critical": false,
-  "download": "https://github.com/Motionsfly/CaptionKit/releases/download/v1.9.1/CaptionKit_v1.9.1_Plugin.zip",
+  "download": "https://github.com/Motionsfly/CaptionKit/releases/download/v1.9.2/CaptionKit_v1.9.2_Plugin.zip",
   "mirrors": [
-    "https://raw.githubusercontent.com/Motionsfly/CaptionKit/main/releases/CaptionKit_v1.9.1_Plugin.zip",
-    "https://cdn.jsdelivr.net/gh/Motionsfly/CaptionKit@main/releases/CaptionKit_v1.9.1_Plugin.zip"
+    "https://raw.githubusercontent.com/Motionsfly/CaptionKit/main/releases/CaptionKit_v1.9.2_Plugin.zip",
+    "https://cdn.jsdelivr.net/gh/Motionsfly/CaptionKit@main/releases/CaptionKit_v1.9.2_Plugin.zip"
   ],
-  "size": 8376475,
-  "sha256": "f2183de0c45d3ed053c27a2304b15b4b3bcb39aced12d2113ab4f6c25e08466e",
+  "size": 11324125,
+  "sha256": "33ed15c56eb3acdb89bede158df442c0766e8990d0ad576118457b0548cc6cc5",
   "page": "https://officialmotionsfly.gumroad.com/l/captionkit?wanted=true"
 }
